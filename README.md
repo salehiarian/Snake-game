@@ -1,5 +1,5 @@
 # Snake-game
-This is the basic implementation of the Snake game written in Python.
+This is a basic implementation of the Snake game written in Python.
 
 # Rules
 1. Don't run the snake into the wall, or his own tail: you die.
