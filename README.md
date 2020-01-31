@@ -7,6 +7,7 @@ This is a basic implementation of the Snake game written in Python.
 3. Eat the colored apples to gain points.
 4. Higher (and faster) play levels award more points.
 
+
 <p align="center">
-  <img src="Sudoku.png" width="60%">
+  <img src="snake3.png" width="60%">
 </p>
