@@ -1,5 +1,6 @@
 # Snake-game
-This is a basic implementation of the Snake game written in Python.
+2048 game, whose objective is to slide numbered tiles on a grid to combine them to create a tile with the number **2048**.
+This is a basic implementation of the Snake game written in Python using [pygame](https://www.pygame.org/news) and [tkinter](https://docs.python.org/3/library/tkinter.html).
 
 # Rules
 1. When snake crosses itself or runs into the wall, the game will over.
